@@ -1,4 +1,4 @@
-import { Header } from '@/components/header/header';
+import { Header } from '@/components/header';
 import { Button } from '@/components/ui/button';
 import { Geist, Geist_Mono } from 'next/font/google';
 
